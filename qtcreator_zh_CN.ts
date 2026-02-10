@@ -36578,7 +36578,7 @@ Continue?</source>
         <location filename="../../GitHub/qt-creator-18.0.0/src/plugins/coreplugin/foldernavigationwidget.cpp" line="740"/>
         <source>%1 Log Directory</source>
         <extracomment>%1 = version control name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 日志目录</translation>
     </message>
     <message>
         <location filename="../../GitHub/qt-creator-18.0.0/src/plugins/coreplugin/foldernavigationwidget.cpp" line="754"/>
@@ -69056,12 +69056,12 @@ Do you want to ignore them?</source>
     <message>
         <location filename="../../GitHub/qt-creator-18.0.0/src/plugins/projectexplorer/projectexplorer.cpp" line="1656"/>
         <source>Create Header File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建头文件</translation>
     </message>
     <message>
         <location filename="../../GitHub/qt-creator-18.0.0/src/plugins/projectexplorer/projectexplorer.cpp" line="1662"/>
         <source>Create Source File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建源文件</translation>
     </message>
     <message>
         <location filename="../../GitHub/qt-creator-18.0.0/src/plugins/projectexplorer/projectexplorer.cpp" line="1687"/>
